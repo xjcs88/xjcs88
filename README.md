@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @xjcs88
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Simon
+- 👀 I’m interested in digital products & table tennis
 - 🌱 I’m currently learning Java / Spring
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Drop me an email to xjcs88@gmail.com
 
 <!---
 xjcs88/xjcs88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
