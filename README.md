@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simon
 - 👀 I’m interested in digital products & table tennis
-- 🌱 I’m currently learning Java / Spring
+- 🌱 I’m currently learning Django
 - 📫 Drop me an email to xjcs88@gmail.com
 
 <!---
